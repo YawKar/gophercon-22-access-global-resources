@@ -3,6 +3,8 @@ Just playing with ideas of some kind of 'monadic' fine-grained way to access glo
 
 Link to the talk: https://youtu.be/6K4PAo5dtts
 
+Link to the original blogpost: https://blog.khanacademy.org/statically-typed-context-in-go/
+
 # The goal
 - Simple code & callsites
 - Explicit dependencies
